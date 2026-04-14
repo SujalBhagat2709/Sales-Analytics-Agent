@@ -24,7 +24,7 @@ PARAMETERS = {
 CREATE DATABASE hubspot_data
 WITH ENGINE = 'hubspot',
 PARAMETERS = {
-    "access_token": "HUBSPOT_TOKEN"
+    "access_token": HUBSPOT_TOKEN
 };
 ```
 
