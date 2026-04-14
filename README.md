@@ -36,15 +36,3 @@ Note: We have provided HubSpot and MongoDB datasources from our end, so you can 
    - Displaying and querying data (single- and cross-database SQL)
    - Creating the `sales_agent` and querying it via SQL
 3. Optionally run **`python main.py`** to stream agent completions using the MindsDB Python SDK.
-
----
-
-## Stay updated with our newsletter
-
-**Get a FREE Data Science eBook** with 150+ essential lessons in Data Science when you subscribe to our newsletter. Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now →](https://join.dailydoseofds.com)
-
----
-
-## Contribution
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
